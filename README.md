@@ -17,6 +17,7 @@ Ensure you have the following installed:
 - **Python 3.12**  
 - **Firefox** (for Selenium)  
 - **Geckodriver** (for Selenium WebDriver)  
+- **Webdriver Manager** (sometimes driver causes this library downloads the latest version sometimes even downloading latest verison do not work) 
 - **Required Python Libraries**  
 
 Install dependencies using:  
